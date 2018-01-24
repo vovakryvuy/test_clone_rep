@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="sunrise">Day length:</string>
+    <string name="api_key_google" translatable="false">AIzaSyALg0e7Ha1fQgHRsevH_c3RQKEpQH_5xIg</string>
+    <string name="text_hint_search">Search</string>
+</resources>

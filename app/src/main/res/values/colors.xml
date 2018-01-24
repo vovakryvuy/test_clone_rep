@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackgroundAutocomplete">#a6a6a6</color>
+    <color name="colorLightBlueFragment">#6d77b5</color>
+    <color name="colorSunrise">#1b1000</color>
+    <color name="colorTextSunset">#e7de9d</color>
+    <color name="colorDarkSearchBar">#000000</color>
+</resources>

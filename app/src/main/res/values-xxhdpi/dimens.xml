@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="size_icon_sun">110dp</dimen>
+    <dimen name="size_icon_locality">65dp</dimen>
+    <dimen name="margin_for_icon_locality">20dp</dimen>
+    <dimen name="margin_right_for_icon_locality">10dp</dimen>
+    <dimen name="margin_top_for_icon_sun">30dp</dimen>
+    <dimen name="text_size">32sp</dimen>
+    <dimen name="text_size_city_name">27sp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="size_icon_sun">100dp</dimen>
+    <dimen name="size_icon_locality">60dp</dimen>
+    <dimen name="margin_for_icon_locality">20dp</dimen>
+    <dimen name="margin_right_for_icon_locality">10dp</dimen>
+    <dimen name="margin_top_for_icon_sun">30dp</dimen>
+
+    <dimen name="text_size">35sp</dimen>
+    <dimen name="text_size_city_name">25sp</dimen>
+</resources>
