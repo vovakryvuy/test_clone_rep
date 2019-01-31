@@ -1,9 +1,12 @@
 include ':app'
 <<<<<<< HEAD
+<<<<<<< HEAD
 include ':app'include ':app'include ':app'include ':app'
 include ':app'include ':app'include ':app'include ':app'
 include ':app'include ':app'include ':app'include ':app'
 include ':app'include ':app'include ':app'include ':app'
 include ':app'include ':app'include ':app'
+=======
+>>>>>>> parent of 82a4a79... change
 =======
 >>>>>>> parent of 82a4a79... change
