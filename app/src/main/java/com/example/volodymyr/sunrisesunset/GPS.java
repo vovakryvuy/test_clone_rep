@@ -53,6 +53,7 @@ public class GPS implements LocationListener {
     @Override
     public void onStatusChanged(String provider, int status, Bundle extras) {
         Log.d("LOG", "onStatusChanged: ");
+        test
     }
 
     @Override
